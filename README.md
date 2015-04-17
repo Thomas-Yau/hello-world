@@ -1,2 +1,4 @@
 # hello-world
-Just another repository. This is a tutorial for myself. COMPLETED NOW!
+Just another repository.
+
+Hi, I'm Thomas. I've got some experience with Pyhton, Java and Lua!
